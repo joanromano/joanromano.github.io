@@ -6,17 +6,20 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Joan Romano
+tagline:          
+url:              http://joanromano.github.io/
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Joan Romano
+  url:            https://twitter.com/joanromano
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/joanromano/joanromano.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
